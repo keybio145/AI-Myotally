@@ -1,0 +1,86 @@
+[
+  {
+    "Image": "Y1",
+    "fibers": 2264,
+    "shape": [
+      4376,
+      6320
+    ],
+    "labels_match_table_mask_ids": true,
+    "fiber_ids_one_to_one": true,
+    "decoded_pixels_equal_saved_mask": true,
+    "label_tiff": "data/masks/Y1_final_labels.tif",
+    "sha256": "1962f72802c5a52c2dda9d60bcd15c91a14170da04f2f05576ae9a91aa12717f",
+    "original_npy_sha256": "e914a371f8af25e974082e996b2d9ef3898c9e16bd33575d4b2e4cbf882f1e89"
+  },
+  {
+    "Image": "Y2",
+    "fibers": 2402,
+    "shape": [
+      3960,
+      6224
+    ],
+    "labels_match_table_mask_ids": true,
+    "fiber_ids_one_to_one": true,
+    "decoded_pixels_equal_saved_mask": true,
+    "label_tiff": "data/masks/Y2_final_labels.tif",
+    "sha256": "1f02529e1cd2cc717d087523fdf0ab7763251a3780a4d5a03e6c79044631c1f9",
+    "original_npy_sha256": "ba4663a10334066fe89178b83c4b76490c25ee6f47d624fc2280decaf21c8944"
+  },
+  {
+    "Image": "Y3",
+    "fibers": 2802,
+    "shape": [
+      4584,
+      6612
+    ],
+    "labels_match_table_mask_ids": true,
+    "fiber_ids_one_to_one": true,
+    "decoded_pixels_equal_saved_mask": true,
+    "label_tiff": "data/masks/Y3_final_labels.tif",
+    "sha256": "a6f59cf760094166828b68191d1f8d09928dc7561e42c62bc730dc22a3e55962",
+    "original_npy_sha256": "cc2c315978bbbf912cff2bd5ddd594b024f2cd6ff2797e8cc1937f442d140379"
+  },
+  {
+    "Image": "O1",
+    "fibers": 2737,
+    "shape": [
+      3576,
+      4824
+    ],
+    "labels_match_table_mask_ids": true,
+    "fiber_ids_one_to_one": true,
+    "decoded_pixels_equal_saved_mask": true,
+    "label_tiff": "data/masks/O1_final_labels.tif",
+    "sha256": "a1469f37f3aaac681fc1953ca038eb6b566ec7af700dcf107a1c2ef80215452b",
+    "original_npy_sha256": "7c9c39f4382db021034acb6c9ddf21eb6cdb7c14019c98bb855a148339534654"
+  },
+  {
+    "Image": "O2",
+    "fibers": 2653,
+    "shape": [
+      3640,
+      5408
+    ],
+    "labels_match_table_mask_ids": true,
+    "fiber_ids_one_to_one": true,
+    "decoded_pixels_equal_saved_mask": true,
+    "label_tiff": "data/masks/O2_final_labels.tif",
+    "sha256": "90116b7f28d65e0f082fea3e8d23a59e27e1c1541c421d2617b37a6e8c735def",
+    "original_npy_sha256": "1ea7be37791c976cd9705c1dbad427f1fcaf8bfc0b730664f664414e6f49c0c8"
+  },
+  {
+    "Image": "O3",
+    "fibers": 2515,
+    "shape": [
+      3816,
+      6224
+    ],
+    "labels_match_table_mask_ids": true,
+    "fiber_ids_one_to_one": true,
+    "decoded_pixels_equal_saved_mask": true,
+    "label_tiff": "data/masks/O3_final_labels.tif",
+    "sha256": "712e7ba50b14d5c668c32f83a83a52dcc889dbb67f4ea8406d600afa376e5d45",
+    "original_npy_sha256": "f6cf9d223726e19531f1f9bcd5ef96caf6a020b7d3ce917e0e60caf0127afb95"
+  }
+]

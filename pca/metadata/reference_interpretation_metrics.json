@@ -1,0 +1,56 @@
+{
+  "explained_variance_12": [
+    24.907829332982434,
+    20.143258821269182
+  ],
+  "explained_variance_8": [
+    36.45907979214109,
+    26.23602146621071
+  ],
+  "PC2_medians_by_type": {
+    "12features": {
+      "Type I": -2.4330939255616153,
+      "Type IIA": -1.9232368648331442,
+      "Type IIB": 0.7079618418363569,
+      "Type IIX": -0.5553422030303886
+    },
+    "8features_retained": {
+      "Type I": -0.8669077904395494,
+      "Type IIA": -1.4568224630191386,
+      "Type IIB": 0.5418112504420998,
+      "Type IIX": -0.42324962194473614
+    }
+  },
+  "Type_I_n": 23,
+  "eta2_descriptive": [
+    {
+      "analysis": "12features",
+      "PC": "PC1",
+      "eta2_type": 0.138458991710349,
+      "eta2_group": 0.1142245286016294,
+      "eta2_animal": 0.19311170264784297
+    },
+    {
+      "analysis": "12features",
+      "PC": "PC2",
+      "eta2_type": 0.3290549826309521,
+      "eta2_group": 0.03401469766463301,
+      "eta2_animal": 0.06362153758644273
+    },
+    {
+      "analysis": "8features_retained",
+      "PC": "PC1",
+      "eta2_type": 0.040816787139259424,
+      "eta2_group": 0.09632758613270831,
+      "eta2_animal": 0.1627972479317495
+    },
+    {
+      "analysis": "8features_retained",
+      "PC": "PC2",
+      "eta2_type": 0.21466654646330038,
+      "eta2_group": 0.11981425154188328,
+      "eta2_animal": 0.18355722252066992
+    }
+  ],
+  "scope": "pooled per-fiber descriptive visualization, not classification validation or animal-level inferential aging test"
+}

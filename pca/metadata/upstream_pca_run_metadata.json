@@ -1,0 +1,82 @@
+{
+  "input_sha256": "7ee8830e2a4139cc0cdfff90534b78b7ff6615b423d661eb3c500c3ad8a5608f",
+  "cohort": {
+    "input_rows": 15373,
+    "eligible_rows": 15373,
+    "complete_case_rows": 15373,
+    "missing_feature_rows_excluded": 0
+  },
+  "environment": {
+    "python_version": "3.11.9",
+    "python_implementation": "CPython",
+    "platform_system": "Windows",
+    "machine": "AMD64",
+    "packages": {
+      "numpy": "2.3.5",
+      "pandas": "2.3.3",
+      "scipy": "1.17.0",
+      "scikit-learn": "1.8.0",
+      "matplotlib": "3.10.8"
+    }
+  },
+  "preprocessing": "Untransformed features; StandardScaler fit on pooled complete cases",
+  "pca": {
+    "n_components": 2,
+    "random_state": 0,
+    "coordinate_method": "fit followed by transform",
+    "coefficient_definition": "components_ on standardized features",
+    "output_orientation": "Positive CSA coefficient for each PC"
+  },
+  "analyses": {
+    "pca_12features": {
+      "features": [
+        "CSA_um2",
+        "MinFeret_um",
+        "Circularity",
+        "Eccentricity",
+        "Aspect_Ratio",
+        "Neighbor_Count",
+        "Local_Density_per_100um2",
+        "Local_CSA_CV_percent",
+        "Local_Type_Entropy",
+        "IIB_Norm_Score",
+        "IIA_Norm_Score",
+        "I_Norm_Score"
+      ],
+      "feature_count": 12,
+      "csa_orientation_signs": [
+        1,
+        -1
+      ],
+      "svd_solver_requested": "auto",
+      "svd_solver_used": "covariance_eigh",
+      "explained_variance_pct": [
+        24.907829332982434,
+        20.143258821269182
+      ]
+    },
+    "pca_marker_excluded_8features": {
+      "features": [
+        "CSA_um2",
+        "MinFeret_um",
+        "Circularity",
+        "Eccentricity",
+        "Aspect_Ratio",
+        "Neighbor_Count",
+        "Local_Density_per_100um2",
+        "Local_CSA_CV_percent"
+      ],
+      "feature_count": 8,
+      "csa_orientation_signs": [
+        -1,
+        1
+      ],
+      "svd_solver_requested": "auto",
+      "svd_solver_used": "covariance_eigh",
+      "explained_variance_pct": [
+        36.45907979214106,
+        26.23602146621069
+      ]
+    }
+  }
+}

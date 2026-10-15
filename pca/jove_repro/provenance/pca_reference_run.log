@@ -1,0 +1,5 @@
+sklearn 1.9.1
+myofibers 15373; complete cases 15373
+12features: 12 features, EV PC1 24.5%, PC2 19.2%
+8features: PC1 sign flipped (CSA coefficient made positive)
+8features: 8 features, EV PC1 36.5%, PC2 26.2%

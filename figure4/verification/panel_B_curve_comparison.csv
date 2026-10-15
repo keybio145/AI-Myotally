@@ -1,0 +1,33 @@
+Facet,curve,kind,source_points,pdf_vertices,max_nearest_source_vertex_distance_pt,pdf_path_index
+All,Y1,individual_sample,2264,492,0.0010635722306516805,12
+All,Y2,individual_sample,2402,528,0.0010199456763783348,13
+All,Y3,individual_sample,2802,454,0.0010313412806837545,14
+All,O1,individual_sample,2737,390,0.0009895277752584356,15
+All,O2,individual_sample,2653,440,0.0009888774713311108,16
+All,O3,individual_sample,2515,494,0.0009885123578129088,17
+All,Young,group_median_of_samples,260,164,0.0010252607676865802,20
+All,Aged,group_median_of_samples,260,142,0.0009770678644815411,21
+Type IIA,Y1,individual_sample,189,268,0.0010478124303182571,29
+Type IIA,Y2,individual_sample,213,316,0.0010716333222233537,30
+Type IIA,Y3,individual_sample,249,308,0.0010821927005363323,31
+Type IIA,O1,individual_sample,662,446,0.0010453808687121292,32
+Type IIA,O2,individual_sample,314,354,0.001091831909152227,33
+Type IIA,O3,individual_sample,178,244,0.0010612425300680728,34
+Type IIA,Young,group_median_of_samples,260,168,0.0011005461828933847,37
+Type IIA,Aged,group_median_of_samples,260,204,0.0010295791159669805,38
+Type IIX,Y1,individual_sample,784,414,0.000769991848485351,46
+Type IIX,Y2,individual_sample,984,414,0.00078879836906172,47
+Type IIX,Y3,individual_sample,1133,444,0.0008033335881502296,48
+Type IIX,O1,individual_sample,870,356,0.0007773474976899067,49
+Type IIX,O2,individual_sample,915,426,0.000810995016106336,50
+Type IIX,O3,individual_sample,808,416,0.0007749123272937773,51
+Type IIX,Young,group_median_of_samples,260,156,0.0006775780708299801,54
+Type IIX,Aged,group_median_of_samples,260,200,0.0007645671237310079,55
+Type IIB,Y1,individual_sample,1289,452,0.0008469496700292605,56
+Type IIB,Y2,individual_sample,1203,450,0.0008370265651696074,57
+Type IIB,O1,individual_sample,1202,398,0.0008277654143265955,58
+Type IIB,O2,individual_sample,1413,452,0.0008766897275088694,59
+Type IIB,O3,individual_sample,1529,458,0.000827139049574304,60
+Type IIB,Young,group_median_of_samples,260,190,0.000791756162223972,62
+Type IIB,Aged,group_median_of_samples,260,146,0.0007102938628095991,63
+Type IIB,Y3,individual_sample,1415,498,0.0008897784706298881,66

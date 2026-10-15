@@ -1,0 +1,175 @@
+{
+  "comparisons": [
+    {
+      "Image": "O3",
+      "panel": "A",
+      "reference_full_xref": 17,
+      "reference_zoom_xref": 19,
+      "contour_precision_within_2_display_pixels": 0.999864139664425,
+      "contour_recall_within_2_display_pixels": 0.9999458029830038,
+      "mean_directed_distance_display_pixels": 0.21228495083790716,
+      "zoom_template_correlation": 0.9663900136947632,
+      "recovered_zoom_box_xywh": [
+        3121,
+        2879,
+        1500,
+        900
+      ],
+      "scope": "Contour/presentation registration from rasterized final artwork, not pixel-identity or an independent biological validation"
+    },
+    {
+      "Image": "O3",
+      "panel": "B",
+      "reference_full_xref": 30,
+      "reference_zoom_xref": 32,
+      "contour_precision_within_2_display_pixels": 0.9965587002315056,
+      "contour_recall_within_2_display_pixels": 0.9999028253528655,
+      "mean_directed_distance_display_pixels": 0.1669088862383681,
+      "zoom_template_correlation": 0.9328386187553406,
+      "recovered_zoom_box_xywh": [
+        3118,
+        2878,
+        1500,
+        900
+      ],
+      "scope": "Contour/presentation registration from rasterized final artwork, not pixel-identity or an independent biological validation"
+    },
+    {
+      "Image": "O3",
+      "panel": "C",
+      "reference_full_xref": 38,
+      "reference_zoom_xref": 40,
+      "contour_precision_within_2_display_pixels": 0.9997927923620077,
+      "contour_recall_within_2_display_pixels": 1.0,
+      "mean_directed_distance_display_pixels": 0.06601773441717528,
+      "zoom_template_correlation": 0.9231605529785156,
+      "recovered_zoom_box_xywh": [
+        3118,
+        2878,
+        1500,
+        900
+      ],
+      "scope": "Contour/presentation registration from rasterized final artwork, not pixel-identity or an independent biological validation"
+    },
+    {
+      "Image": "O3",
+      "panel": "D",
+      "reference_full_xref": 46,
+      "reference_zoom_xref": 48,
+      "contour_precision_within_2_display_pixels": 0.9998897724588615,
+      "contour_recall_within_2_display_pixels": 1.0,
+      "mean_directed_distance_display_pixels": 0.06485799235926383,
+      "zoom_template_correlation": 0.9245527982711792,
+      "recovered_zoom_box_xywh": [
+        3118,
+        2878,
+        1500,
+        900
+      ],
+      "scope": "Contour/presentation registration from rasterized final artwork, not pixel-identity or an independent biological validation"
+    },
+    {
+      "Image": "O3",
+      "panel": "E",
+      "reference_full_xref": 60,
+      "reference_zoom_xref": 62,
+      "contour_precision_within_2_display_pixels": 1.0,
+      "contour_recall_within_2_display_pixels": 1.0,
+      "mean_directed_distance_display_pixels": 0.022740411212324715,
+      "zoom_template_correlation": 0.9440121650695801,
+      "recovered_zoom_box_xywh": [
+        3118,
+        2878,
+        1500,
+        900
+      ],
+      "scope": "Contour/presentation registration from rasterized final artwork, not pixel-identity or an independent biological validation"
+    },
+    {
+      "Image": "Y1",
+      "panel": "A",
+      "reference_full_xref": 23,
+      "reference_zoom_xref": 21,
+      "contour_precision_within_2_display_pixels": 0.9997158238739521,
+      "contour_recall_within_2_display_pixels": 1.0,
+      "mean_directed_distance_display_pixels": 0.04690322479305091,
+      "zoom_template_correlation": 0.9286388158798218,
+      "recovered_zoom_box_xywh": [
+        541,
+        3356,
+        1500,
+        900
+      ],
+      "scope": "Contour/presentation registration from rasterized final artwork, not pixel-identity or an independent biological validation"
+    },
+    {
+      "Image": "Y1",
+      "panel": "B",
+      "reference_full_xref": 34,
+      "reference_zoom_xref": 36,
+      "contour_precision_within_2_display_pixels": 0.9901409889660809,
+      "contour_recall_within_2_display_pixels": 0.9998736735725113,
+      "mean_directed_distance_display_pixels": 0.23846331398200246,
+      "zoom_template_correlation": 0.9492402672767639,
+      "recovered_zoom_box_xywh": [
+        541,
+        3356,
+        1500,
+        900
+      ],
+      "scope": "Contour/presentation registration from rasterized final artwork, not pixel-identity or an independent biological validation"
+    },
+    {
+      "Image": "Y1",
+      "panel": "C",
+      "reference_full_xref": 42,
+      "reference_zoom_xref": 44,
+      "contour_precision_within_2_display_pixels": 0.9996161383518193,
+      "contour_recall_within_2_display_pixels": 1.0,
+      "mean_directed_distance_display_pixels": 0.08231781768950894,
+      "zoom_template_correlation": 0.934272050857544,
+      "recovered_zoom_box_xywh": [
+        541,
+        3360,
+        1500,
+        900
+      ],
+      "scope": "Contour/presentation registration from rasterized final artwork, not pixel-identity or an independent biological validation"
+    },
+    {
+      "Image": "Y1",
+      "panel": "D",
+      "reference_full_xref": 50,
+      "reference_zoom_xref": 58,
+      "contour_precision_within_2_display_pixels": 0.9996243945833745,
+      "contour_recall_within_2_display_pixels": 1.0,
+      "mean_directed_distance_display_pixels": 0.07926233116887661,
+      "zoom_template_correlation": 0.9560736417770386,
+      "recovered_zoom_box_xywh": [
+        541,
+        3360,
+        1500,
+        900
+      ],
+      "scope": "Contour/presentation registration from rasterized final artwork, not pixel-identity or an independent biological validation"
+    },
+    {
+      "Image": "Y1",
+      "panel": "E",
+      "reference_full_xref": 64,
+      "reference_zoom_xref": 66,
+      "contour_precision_within_2_display_pixels": 0.9999903906212463,
+      "contour_recall_within_2_display_pixels": 1.0,
+      "mean_directed_distance_display_pixels": 0.015587715013828968,
+      "zoom_template_correlation": 0.9681345224380493,
+      "recovered_zoom_box_xywh": [
+        541,
+        3360,
+        1500,
+        900
+      ],
+      "scope": "Contour/presentation registration from rasterized final artwork, not pixel-identity or an independent biological validation"
+    }
+  ],
+  "zoom_boxes_are_display_coordinates_not_validation_keys": true
+}

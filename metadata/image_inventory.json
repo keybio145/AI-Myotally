@@ -1,0 +1,386 @@
+[
+  {
+    "Image": "Y1",
+    "channel": "Laminin",
+    "path": "data/images/Y1/Laminin.tif",
+    "bytes": 55312820,
+    "sha256": "58f3f12b048aa007eb11bb64ccc8fb097f73c2368552733f408e822c0e61edae",
+    "shape": [
+      4376,
+      6320
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=750.0\nmax=950.0\n"
+    }
+  },
+  {
+    "Image": "Y1",
+    "channel": "Myh4",
+    "path": "data/images/Y1/Myh4.tif",
+    "bytes": 55314369,
+    "sha256": "7923ba88c394863e09873cc7856f0033a92de3e2aad955742fb61bf79cd9adcc",
+    "shape": [
+      4376,
+      6320
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=1200.0\n"
+    }
+  },
+  {
+    "Image": "Y1",
+    "channel": "Myh2",
+    "path": "data/images/Y1/Myh2.tif",
+    "bytes": 55314369,
+    "sha256": "22cc3d4b1c7d87d849d2090cd1e99519a9766aebf5ee954ec0bdf0fe82344c2e",
+    "shape": [
+      4376,
+      6320
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=500.0\nmax=2000.0\n"
+    }
+  },
+  {
+    "Image": "Y1",
+    "channel": "Myh7",
+    "path": "data/images/Y1/Myh7.tif",
+    "bytes": 55314369,
+    "sha256": "2c16307d6d990d487b42b2fa4f7921e2abf709a50f3d50c919db7fded7d92158",
+    "shape": [
+      4376,
+      6320
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=2000.0\n"
+    }
+  },
+  {
+    "Image": "Y2",
+    "channel": "Laminin",
+    "path": "data/images/Y2/Laminin.tif",
+    "bytes": 49294260,
+    "sha256": "255147b8652ce477089b524c186bb419b620447cca2bea56b11691b8cafe0dfe",
+    "shape": [
+      3960,
+      6224
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=750.0\nmax=950.0\n"
+    }
+  },
+  {
+    "Image": "Y2",
+    "channel": "Myh4",
+    "path": "data/images/Y2/Myh4.tif",
+    "bytes": 49295809,
+    "sha256": "f733b7b00ac4660e1e77acc78e1c06869052b2f6b791b45c7424d9f07de6b2aa",
+    "shape": [
+      3960,
+      6224
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=1200.0\n"
+    }
+  },
+  {
+    "Image": "Y2",
+    "channel": "Myh2",
+    "path": "data/images/Y2/Myh2.tif",
+    "bytes": 49295809,
+    "sha256": "1c8fdf09dc6b5c0d7da53498895593ccd2a97a4440aa3917b480af9993ab0132",
+    "shape": [
+      3960,
+      6224
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=500.0\nmax=2000.0\n"
+    }
+  },
+  {
+    "Image": "Y2",
+    "channel": "Myh7",
+    "path": "data/images/Y2/Myh7.tif",
+    "bytes": 49295809,
+    "sha256": "81321cb12bec8a96574f565d2142d0e89d09ba9d4cf52aba080ee4225ac8d103",
+    "shape": [
+      3960,
+      6224
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=2000.0\n"
+    }
+  },
+  {
+    "Image": "Y3",
+    "channel": "Laminin",
+    "path": "data/images/Y3/Laminin.tif",
+    "bytes": 60618996,
+    "sha256": "a042de06eb493bf416da2e293b2c8edad6ccc9ebd9c522555930b3b7fed92b18",
+    "shape": [
+      4584,
+      6612
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=750.0\nmax=950.0\n"
+    }
+  },
+  {
+    "Image": "Y3",
+    "channel": "Myh4",
+    "path": "data/images/Y3/Myh4.tif",
+    "bytes": 60620545,
+    "sha256": "d389bfb30e95354e5488d635557fdb4de530cd6178c858f86d088eece659ac59",
+    "shape": [
+      4584,
+      6612
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=1200.0\n"
+    }
+  },
+  {
+    "Image": "Y3",
+    "channel": "Myh2",
+    "path": "data/images/Y3/Myh2.tif",
+    "bytes": 60620545,
+    "sha256": "6ae4d113db496e10a8a1fda7e3e2286afa8131316ca39ed925ed56354875506b",
+    "shape": [
+      4584,
+      6612
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=500.0\nmax=2000.0\n"
+    }
+  },
+  {
+    "Image": "Y3",
+    "channel": "Myh7",
+    "path": "data/images/Y3/Myh7.tif",
+    "bytes": 60620545,
+    "sha256": "53f10c40d8623edbc6946003c6a7d31d063c862a8fec3e3a53e87c182f0729ad",
+    "shape": [
+      4584,
+      6612
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=2000.0\n"
+    }
+  },
+  {
+    "Image": "O1",
+    "channel": "Laminin",
+    "path": "data/images/O1/Laminin.tif",
+    "bytes": 34501428,
+    "sha256": "4944f254afc2bddf4dc94e67f0c211d83a018b3907b7eaeab8a8c66a1519c886",
+    "shape": [
+      3576,
+      4824
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=750.0\nmax=950.0\n"
+    }
+  },
+  {
+    "Image": "O1",
+    "channel": "Myh4",
+    "path": "data/images/O1/Myh4.tif",
+    "bytes": 34502977,
+    "sha256": "dce0ad97e34dd470d3c085892932f7d4af031220dfd4db419e9483547405cac4",
+    "shape": [
+      3576,
+      4824
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=1200.0\n"
+    }
+  },
+  {
+    "Image": "O1",
+    "channel": "Myh2",
+    "path": "data/images/O1/Myh2.tif",
+    "bytes": 34502977,
+    "sha256": "9dca08fea84350ba347eed2d978c614a08afcc85cb328910e5c9cf645138b2d9",
+    "shape": [
+      3576,
+      4824
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=500.0\nmax=2000.0\n"
+    }
+  },
+  {
+    "Image": "O1",
+    "channel": "Myh7",
+    "path": "data/images/O1/Myh7.tif",
+    "bytes": 34502977,
+    "sha256": "a6529c843be28f333da953ed1a59e2a160390c5d2173ee820fedd0dd2131e79b",
+    "shape": [
+      3576,
+      4824
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=2000.0\n"
+    }
+  },
+  {
+    "Image": "O2",
+    "channel": "Laminin",
+    "path": "data/images/O2/Laminin.tif",
+    "bytes": 39370420,
+    "sha256": "65ccdd3460da30f6bebaedff19ac7ff52684b180aa37ae9f74659576e1ffa838",
+    "shape": [
+      3640,
+      5408
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=750.0\nmax=950.0\n"
+    }
+  },
+  {
+    "Image": "O2",
+    "channel": "Myh4",
+    "path": "data/images/O2/Myh4.tif",
+    "bytes": 39371969,
+    "sha256": "b5e96c402ba526a64a9e1753135a08b07f09ce297adc8c6ab935a2744337f8e7",
+    "shape": [
+      3640,
+      5408
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=1200.0\n"
+    }
+  },
+  {
+    "Image": "O2",
+    "channel": "Myh2",
+    "path": "data/images/O2/Myh2.tif",
+    "bytes": 39371969,
+    "sha256": "89a6e4872d8b104e23c1919900e0495d2377a21fa9f4eccaf30fc10696f6dede",
+    "shape": [
+      3640,
+      5408
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=500.0\nmax=2000.0\n"
+    }
+  },
+  {
+    "Image": "O2",
+    "channel": "Myh7",
+    "path": "data/images/O2/Myh7.tif",
+    "bytes": 39371969,
+    "sha256": "cc48c73f4e35e6a0d8ceeff0eb3c76eb42aafc2ba4b8e8096c59e88426234bc4",
+    "shape": [
+      3640,
+      5408
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=2000.0\n"
+    }
+  },
+  {
+    "Image": "O3",
+    "channel": "Laminin",
+    "path": "data/images/O3/Laminin.tif",
+    "bytes": 47501748,
+    "sha256": "d3b428ae2ab8a81e548cc18a5e52b7c185c4180a5f0351fc65deed639ee729f2",
+    "shape": [
+      3816,
+      6224
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=750.0\nmax=950.0\n"
+    }
+  },
+  {
+    "Image": "O3",
+    "channel": "Myh4",
+    "path": "data/images/O3/Myh4.tif",
+    "bytes": 47503297,
+    "sha256": "0cafab3e6f73208803c81ddb3ad1a3ba7e97ad584a61e903923714f6a3363797",
+    "shape": [
+      3816,
+      6224
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=1200.0\n"
+    }
+  },
+  {
+    "Image": "O3",
+    "channel": "Myh2",
+    "path": "data/images/O3/Myh2.tif",
+    "bytes": 47503297,
+    "sha256": "a081a0af271192be59db99b1fae16d5c095363683eb54167483bf9a0386616db",
+    "shape": [
+      3816,
+      6224
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=500.0\nmax=2000.0\n"
+    }
+  },
+  {
+    "Image": "O3",
+    "channel": "Myh7",
+    "path": "data/images/O3/Myh7.tif",
+    "bytes": 47503297,
+    "sha256": "eee1e3a95738d7aff381c7f18e890038323dd8c79b08824d314e92c8191bdd07",
+    "shape": [
+      3816,
+      6224
+    ],
+    "mode": "I;16B",
+    "frames": 1,
+    "text_tags": {
+      "270": "ImageJ=1.54p\nmin=400.0\nmax=2000.0\n"
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "target": "Young Type IIA mean",
+    "expected_display": "8.7",
+    "reproduced_display": "8.7",
+    "passed": true
+  },
+  {
+    "target": "Young Type IIX mean",
+    "expected_display": "38.7",
+    "reproduced_display": "38.7",
+    "passed": true
+  },
+  {
+    "target": "Young IIX range",
+    "expected_display": "34.6\u201341.0",
+    "reproduced_display": "34.6\u201341.0",
+    "passed": true
+  },
+  {
+    "target": "Young Type IIB mean",
+    "expected_display": "52.5",
+    "reproduced_display": "52.5",
+    "passed": true
+  },
+  {
+    "target": "Old Type IIA mean",
+    "expected_display": "14.4",
+    "reproduced_display": "14.4",
+    "passed": true
+  },
+  {
+    "target": "Old Type IIX mean",
+    "expected_display": "32.8",
+    "reproduced_display": "32.8",
+    "passed": true
+  },
+  {
+    "target": "Old IIX range",
+    "expected_display": "31.8\u201334.5",
+    "reproduced_display": "31.8\u201334.5",
+    "passed": true
+  },
+  {
+    "target": "Old Type IIB mean",
+    "expected_display": "52.7",
+    "reproduced_display": "52.7",
+    "passed": true
+  },
+  {
+    "target": "Old 1 IIA",
+    "expected_display": "24.2",
+    "reproduced_display": "24.2",
+    "passed": true
+  },
+  {
+    "target": "Type I count",
+    "expected_display": "23",
+    "reproduced_display": "23",
+    "passed": true
+  },
+  {
+    "target": "Y1 fibers",
+    "expected_display": "2264",
+    "reproduced_display": "2264",
+    "passed": true
+  },
+  {
+    "target": "Y2 fibers",
+    "expected_display": "2402",
+    "reproduced_display": "2402",
+    "passed": true
+  },
+  {
+    "target": "Y3 fibers",
+    "expected_display": "2802",
+    "reproduced_display": "2802",
+    "passed": true
+  },
+  {
+    "target": "O1 fibers",
+    "expected_display": "2737",
+    "reproduced_display": "2737",
+    "passed": true
+  },
+  {
+    "target": "O2 fibers",
+    "expected_display": "2653",
+    "reproduced_display": "2653",
+    "passed": true
+  },
+  {
+    "target": "O3 fibers",
+    "expected_display": "2515",
+    "reproduced_display": "2515",
+    "passed": true
+  },
+  {
+    "target": "D lower scale",
+    "expected_display": "243",
+    "reproduced_display": "243",
+    "passed": true
+  },
+  {
+    "target": "D upper scale",
+    "expected_display": "1045",
+    "reproduced_display": "1045",
+    "passed": true
+  },
+  {
+    "target": "E lower scale",
+    "expected_display": "0.10",
+    "reproduced_display": "0.10",
+    "passed": true
+  },
+  {
+    "target": "E upper scale",
+    "expected_display": "0.25",
+    "reproduced_display": "0.25",
+    "passed": true
+  },
+  {
+    "target": "pca_12features PC1 variance",
+    "expected_display": "24.9",
+    "reproduced_display": "24.9",
+    "passed": true
+  },
+  {
+    "target": "pca_12features PC2 variance",
+    "expected_display": "20.1",
+    "reproduced_display": "20.1",
+    "passed": true
+  },
+  {
+    "target": "pca_12features PC2 type eta2 percent",
+    "expected_display": "33",
+    "reproduced_display": "33",
+    "passed": true
+  },
+  {
+    "target": "pca_marker_excluded_8features PC1 variance",
+    "expected_display": "36.5",
+    "reproduced_display": "36.5",
+    "passed": true
+  },
+  {
+    "target": "pca_marker_excluded_8features PC2 variance",
+    "expected_display": "26.2",
+    "reproduced_display": "26.2",
+    "passed": true
+  },
+  {
+    "target": "pca_marker_excluded_8features PC2 type eta2 percent",
+    "expected_display": "21",
+    "reproduced_display": "21",
+    "passed": true
+  },
+  {
+    "target": "absolute entropy coefficient",
+    "criterion": "<=0.11",
+    "reproduced_max_abs": 0.1064930610283314,
+    "passed": true
+  },
+  {
+    "target": "PCA complete cases",
+    "expected_display": "15373",
+    "reproduced_display": "15373",
+    "passed": true
+  }
+]

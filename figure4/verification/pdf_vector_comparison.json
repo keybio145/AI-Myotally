@@ -1,0 +1,129 @@
+{
+  "A": {
+    "bars": 24,
+    "max_height_error_percentage_points": 0.00007711892191508696,
+    "type_I_vertical_offset_pt": [
+      0.0000024414062522737368,
+      0.0000024414062522737368,
+      0.0000024414062522737368,
+      0.0000024414062522737368,
+      0.0000024414062522737368,
+      1.9200463867187523
+    ],
+    "other_types_max_position_error_pt": 0.0005419921875073896,
+    "type_I_nonzero_rectangles": 5,
+    "type_I_nonzero_baseline_max_abs_error_pt": 0.0000024414062522737368,
+    "zero_height_Type_I_note": "Old 3: expected 0%, no fill and zero area. Its unmoved zero-height path is excluded from placement acceptance."
+  },
+  "B": {
+    "curves": 32,
+    "max_nearest_source_vertex_distance_pt": 0.0011005461828933847,
+    "method": "Page-coordinate nearest source vertex distance; line simplification and Affinity coordinate rounding allowed."
+  },
+  "C": {
+    "animal_circles": 24,
+    "max_median_error_um": 0.00019583568623815495,
+    "pooled_median_bars": 8,
+    "max_pooled_median_error_um": 0.00029188325633100476
+  },
+  "DE": [
+    {
+      "Panel": "D",
+      "Image": "Y3",
+      "polygons": 2802,
+      "max_center_affine_residual_pt": 0.0005086871645971769,
+      "max_bidirectional_vertex_distance_pt": 0.7795968721487412,
+      "max_bidirectional_polyline_distance_pt": 0.0007244366626531742,
+      "max_facecolor_channel_error": 0.00004904106551528731,
+      "x_page_transform": [
+        0.025140670794019195,
+        29.07547440321425
+      ],
+      "y_page_transform": [
+        0.025140667588475808,
+        388.31957092601033
+      ]
+    },
+    {
+      "Panel": "D",
+      "Image": "O2",
+      "polygons": 2653,
+      "max_center_affine_residual_pt": 0.0005010986178035637,
+      "max_bidirectional_vertex_distance_pt": 1.2625828969702024,
+      "max_bidirectional_polyline_distance_pt": 0.0007227264751814535,
+      "max_facecolor_channel_error": 0.00004904106551528731,
+      "x_page_transform": [
+        0.0315566658642682,
+        199.50644008367473
+      ],
+      "y_page_transform": [
+        0.0315566684471453,
+        388.11979881493085
+      ]
+    },
+    {
+      "Panel": "E",
+      "Image": "Y3",
+      "polygons": 2802,
+      "max_center_affine_residual_pt": 0.000503444256196417,
+      "max_bidirectional_vertex_distance_pt": 0.779397842774766,
+      "max_bidirectional_polyline_distance_pt": 0.0007211108029956816,
+      "max_facecolor_channel_error": 0.00004904106551528731,
+      "x_page_transform": [
+        0.02514067080329739,
+        25.955474732076507
+      ],
+      "y_page_transform": [
+        0.025140668934786878,
+        533.0395691020806
+      ]
+    },
+    {
+      "Panel": "E",
+      "Image": "O2",
+      "polygons": 2653,
+      "max_center_affine_residual_pt": 0.0004893221446025109,
+      "max_bidirectional_vertex_distance_pt": 1.2625574472465457,
+      "max_bidirectional_polyline_distance_pt": 0.0007352020371942983,
+      "max_facecolor_channel_error": 0.00004904106551528731,
+      "x_page_transform": [
+        0.031556665813737124,
+        196.3864399577464
+      ],
+      "y_page_transform": [
+        0.03155666164643712,
+        532.8398094254252
+      ]
+    }
+  ],
+  "F": {
+    "points": 15373,
+    "max_affine_center_residual_pt": 0.00039824328393933683,
+    "max_facecolor_channel_error": 0.000049026164354065704,
+    "x_page_transform": [
+      8.85254685932722,
+      522.3130969717098
+    ],
+    "y_page_transform": [
+      -8.852544652073723,
+      486.38318692545243
+    ],
+    "marker_counts": {
+      "Young": {
+        "points": 7468,
+        "item_counts": [
+          8
+        ]
+      },
+      "Aged": {
+        "points": 7905,
+        "item_counts": [
+          3
+        ]
+      }
+    }
+  },
+  "pdf_sha256": "3ec8dea39b4b072b397b7a51a3a38e84318cd7530949331e68560dd0004a0892",
+  "all_nonzero_Type_I_positions_passed": true,
+  "other_panels_unchanged_against_previous_pdf": true
+}
