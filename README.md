@@ -1,5 +1,7 @@
 # AI-Myotally reproducibility scripts
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23398173.svg)](https://doi.org/10.5281/zenodo.23398173)
+
 Application version: **v1.0.0**. Scientific archive revision: **2026-10-15**.
 
 This repository provides downstream analysis code, documentation, pinned dependencies and expected tables accompanying the Figure 3/4 reproducibility archive for JoVE manuscript 73893. It includes Figure 3 saved-state display scripts, Figure 4 panel and SourceData scripts, and separately fitted 12-feature and 8-feature descriptive PCA scripts. Application source and trained RF models are excluded.
@@ -14,7 +16,7 @@ Identify the complete archive by these exact values:
 - SHA256: 3477c0ca5cccf181f1e9d821c2286128790050cab7d8b4a3f8637009270142e3
 - Size: 558,649,447 bytes
 
-The original application release is https://doi.org/10.5281/zenodo.21534540. For supplementary data, use the specific Zenodo version that lists the archive above and matches its checksum. The historical application DOI alone does not identify the supplementary archive.
+The complete reproducibility archive and Windows executable are available in the [Zenodo release v1.0.0-repro-20261015](https://doi.org/10.5281/zenodo.23398173). Download the matching archive listed above and verify its checksum. The original application release remains available at https://doi.org/10.5281/zenodo.21534540.
 
 1. Download the complete archive from the corresponding Zenodo record version and verify its SHA256.
 2. Extract it to an ASCII-only path. Open a terminal in the extracted archive directory containing run_reproduction.py.
@@ -48,6 +50,6 @@ Copied scientific scripts and expected tables retain their archive bytes and fol
 
 Fiber types in the supplied measurement table were obtained by image-level calibration with saved operator labels. These values were used for Figure 4 and Representative Results section 4. Reanalysis from raw images can differ when interactive decisions or calibration differ. Saved checkpoints preserve endpoint decisions and selected stages, not a chronological editing history. Comparisons and PCA summaries are descriptive.
 
-Cite the specific Zenodo version containing the identified archive and record the GitHub tag/commit used. State application version v1.0.0 and archive revision 2026-10-15. Manuscript: Kim E., Hwang Y., Baek Y. E., Cho E. J., Lee J. H., and Kim S., "Artificial Intelligence-Assisted Image Analysis of Mouse Skeletal Muscle Histology for Myofiber Morphometry and Aging-Associated Phenotyping" (JoVE manuscript 73893, under revision).
+Cite the [specific Zenodo version, DOI 10.5281/zenodo.23398173](https://doi.org/10.5281/zenodo.23398173), and record the GitHub tag/commit used. State application version v1.0.0 and archive revision 2026-10-15. Manuscript: Kim E., Hwang Y., Baek Y. E., Cho E. J., Lee J. H., and Kim S., "Artificial Intelligence-Assisted Image Analysis of Mouse Skeletal Muscle Histology for Myofiber Morphometry and Aging-Associated Phenotyping" (JoVE manuscript 73893, under revision).
 
 All files in this repository are licensed under CC BY 4.0. See LICENSE.
